@@ -1,0 +1,50 @@
+zt3-lab/
+│
+├── docs/
+│   ├── protocol.md
+│   ├── ble.md
+│   ├── ota.md
+│   ├── flash-layout.md
+│   ├── memory-map.md
+│   └── findings.md
+│
+├── firmware/
+│   ├── stock/
+│   ├── patched/
+│   ├── dumps/
+│   └── signatures/
+│
+├── xiaodash-re/
+│   ├── apk/
+│   ├── jadx/
+│   ├── sources/
+│   ├── symbols/
+│   └── notes/
+│
+├── simulator/
+│   ├── ble/
+│   ├── gatt/
+│   ├── ota/
+│   ├── protocol/
+│   └── fake_flash/
+│
+├── ota-engine/
+│   ├── transport/
+│   ├── protocol/
+│   ├── packets/
+│   ├── crc/
+│   ├── crypto/
+│   └── uploader/
+│
+├── mobile/
+│   └── flutter/
+│
+├── desktop/
+│   └── python/
+│
+└── tools/
+    ├── dump_parser/
+    ├── crc_tools/
+    ├── diff_fw/
+    ├── extract_fw/
+    └── packet_decoder/
